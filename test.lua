@@ -27,7 +27,7 @@ end
 
 local Window = WindUI:CreateWindow({
     Title = "nubnub",
-    Icon = "door-open",
+    Icon = "flame",
     Author = "by nubnub",
 
     -- Config จะถูกเก็บใน Folder นี้
